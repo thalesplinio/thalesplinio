@@ -2,6 +2,7 @@
 https://dev.to/envoy_/150-badges-for-github-pnk
 https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 https://shields.io/
+https://github.com/anuraghazra/github-readme-stats
 **thalesplinio/thalesplinio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -39,4 +40,6 @@ Here are some ideas to get you started:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thalesplinio)](https://github.com/thalesplinio/github-readme-stats)
 
