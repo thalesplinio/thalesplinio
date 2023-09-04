@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 ### Tecnologias.
 ![HTML](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3logoColor=1572B6)&nbsp;
-![Python](https://img.shields.io/badge/-PYTHON-05122A?style=flat&logo=PYTHON)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=SQLite)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
