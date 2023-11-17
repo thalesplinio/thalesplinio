@@ -42,5 +42,5 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thalesplinio)](https://github.com/thalesplinio/github-readme-stats)
 
