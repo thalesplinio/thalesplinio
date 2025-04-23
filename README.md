@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 ![Thales GitHub stats](https://github-readme-stats.vercel.app/api?username=thalesplinio&show_icons=true&theme=transparent)
 
 ### Tecnologias.
-![HTML](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=HTML5)&nbsp;
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3logoColor=1572B6)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)&nbsp;
