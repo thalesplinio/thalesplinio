@@ -2,7 +2,7 @@
 
 &emsp;Olá me chamo Thales Plinio, Natural de Campo grande MS apaixonado e entusuasta por tecnoligia decidi trilhar meu caminho como desenvolvedor de software, iniciei minha graduação em Análise e desenvolvimento de sistemas para apliar meu conhecimento, Atualmente desenvolvo projetos de estudos de softwares e de jogos.
 
-### Experise ✏️
+### Expertise ✏️
 
 &emsp;Atualmente estou me especializando em desenvolvimento web front-end e back-end e nas horas vagas desenvolvendo projetos pessoais de jogos.
 
