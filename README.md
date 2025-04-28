@@ -38,6 +38,6 @@
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
 
-![Thales GitHub stats](https://github-readme-stats.vercel.app/api?username=thalesplinio&show_icons=true&theme=transparent)
+<!-- ![Thales GitHub stats](https://github-readme-stats.vercel.app/api?username=thalesplinio&show_icons=true&theme=transparent) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thalesplinio)](https://github.com/thalesplinio/github-readme-stats) -->
 
