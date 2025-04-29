@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Thales Plínio 🧔🏻
 
-&emsp;Olá me chamo Thales Plinio, Natural de Campo grande MS apaixonado e entusuasta por tecnoligia decidi trilhar meu caminho como desenvolvedor de software, iniciei minha graduação em Análise e desenvolvimento de sistemas para apliar meu conhecimento, Atualmente desenvolvo projetos de estudos de softwares e de jogos.
+&emsp;Olá me chamo Thales Plinio, Natural de Campo grande MS apaixonado por tecnoligia decidi trilhar meu caminho como desenvolvedor de software, iniciei minha graduação em Análise e desenvolvimento de sistemas para ampliar meu conhecimento, Atualmente desenvolvo projetos de estudos de softwares e de jogos.
 
 
 ### Expertise ✏️
