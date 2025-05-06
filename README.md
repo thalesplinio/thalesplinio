@@ -5,7 +5,7 @@
 
 ### Expertise ✏️
 
-&emsp;Atualmente estou me especializando em desenvolvimento web front-end e back-end e nas horas vagas desenvolvendo projetos pessoais de jogos.
+&emsp;Atualmente estou me especializando em desenvolvimento web front-end e back-end e nas horas vagas desenvolvendo projetos pessoais.
 
 ### Social midia 👨🏻‍💻
 
