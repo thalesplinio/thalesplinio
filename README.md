@@ -3,7 +3,7 @@
 &emsp;Olá me chamo Thales Plinio, Natural de Campo grande MS apaixonado por tecnoligia decidi trilhar meu caminho como desenvolvedor de software, iniciei minha graduação em Análise e desenvolvimento de sistemas para ampliar meu conhecimento, Atualmente desenvolvo projetos de estudos de softwares e de jogos.
 
 
-### Expertise ✏️
+### Experiência ✏️
 
 &emsp;Atualmente estou me especializando em desenvolvimento web front-end e back-end e nas horas vagas desenvolvendo projetos pessoais.
 
@@ -13,7 +13,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thalesplinio/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/thales.plinio/)
 
-### Tech Stack 🚀
+### Technologias 🚀
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
@@ -28,7 +28,7 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-### Interest/Study 📚
+### Interesse/Estudo 📚
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
